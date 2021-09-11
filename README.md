@@ -1,7 +1,7 @@
 <h1 align="center"></h1>
 <p align="left">
 <!-- <p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=meghrxj&theme=dark&hide_border=true&stroke=00DDD6&currStreakLabel=49DDCD" /></p> -->
-## About Me
+## About ME
 
 Pursuing CSE from MIT WPU
 Pune, India
