@@ -12,7 +12,7 @@ Pune, India
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=meghrxj&show_icons=true&hide_border=true&count_private=true&theme=dark)](https://github.com/meghrxj)
  
 # Spotify
-![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=316n3annryacilq7tl4qj52hhzty&count=1)
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=316n3annryacilq7tl4qj52hhzty&count={5})
 
 
 
