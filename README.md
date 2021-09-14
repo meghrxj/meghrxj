@@ -9,7 +9,7 @@ Pune, India
 ## GitHub Stats
  
 [![Profile Views](https://komarev.com/ghpvc/?username=meghrxj&style=flat-square&color=000000)](https://github.com/meghrxj/)
- <p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=meghrxj&theme=dark&hide_border=true&stroke=00DDD6&currStreakLabel=49DDCD" /></p>
+
 
 # Spotify
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=316n3annryacilq7tl4qj52hhzty&width=600)
