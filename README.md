@@ -4,7 +4,7 @@
  About Me
  
 Pursuing CSE from MIT WPU
-Pune, India
+
 
 ## GitHub Stats
  
