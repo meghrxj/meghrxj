@@ -24,3 +24,6 @@ Pursuing CSE from MIT WPU
 
 </p>
 <br>
+<p align="center">
+  <img src="https://github.com/meghrxj/meghrxj/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
