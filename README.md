@@ -13,7 +13,7 @@ Pursuing CSE from MIT WPU
 
 
 # Spotify
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=316n3annryacilq7tl4qj52hhzty&width=300)
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=316n3annryacilq7tl4qj52hhzty&count={1})
 
 
 ## Contact
