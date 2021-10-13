@@ -3,7 +3,7 @@
 <!-- <p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=meghrxj&theme=dark&hide_border=true&stroke=00DDD6&currStreakLabel=49DDCD" /></p> -->
  About Me
  
-Pursuing CSE from MIT WPU
+I'm currently studying computer science in university
 
 
 ## GitHub Stats
