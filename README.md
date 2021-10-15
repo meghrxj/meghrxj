@@ -41,12 +41,15 @@ I'm currently studying computer science in university
 # Spotify
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=316n3annryacilq7tl4qj52hhzty&count=1)
 
+# Learning 
+
 
 ### Social
-<a href="https://www.instagram.com/meghrxj/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a> <a href="https://github.com/meghrxj"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a> <a href="mailto:meghrxj@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a> 
 
+<div style="display:flex">
+<a href="https://www.instagram.com/meghrxj/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a> <a href="https://github.com/meghrxj"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a> <a href="mailto:meghrxj@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a> 
 <a href="https://discord.com/users/688675191190323225"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
- 
+</div>
 
 </p>
 <br>
