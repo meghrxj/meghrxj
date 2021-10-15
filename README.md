@@ -47,10 +47,12 @@ I'm currently studying computer science in university
 ### Social
 
 <div style="display:flex">
-<a href="https://www.instagram.com/meghrxj/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-<a href="https://github.com/meghrxj"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-<a href="mailto:meghrxj@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a> 
-<a href="https://discord.com/users/688675191190323225"><img src="https://img.icons8.com/bubbles/50/000000/discord.png" alt="Discord"/></a>
+ 
+<div><a href="https://www.instagram.com/meghrxj/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a></div>
+<div><a href="https://github.com/meghrxj"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a></div>
+<div><a href="mailto:meghrxj@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a></div>
+<div><a href="https://discord.com/users/688675191190323225"><img src="https://img.icons8.com/bubbles/50/000000/discord.png" alt="Discord"/></a></div>
+ 
 </div>
 
 </p>
