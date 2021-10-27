@@ -2,8 +2,7 @@
 <p align="left">
 <!-- <p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=meghrxj&theme=dark&hide_border=true&stroke=00DDD6&currStreakLabel=49DDCD" /></p> -->
  About Me
- 
-I'm Currently Studying Computer Science in University
+Currently Studying Computer Science in University
 
 
 ## GitHub Stats
