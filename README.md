@@ -40,8 +40,8 @@ Currently Studying Computer Science in University
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-# Spotify
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=316n3annryacilq7tl4qj52hhzty&count=1)
+<!-- # Spotify -->
+<!-- ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=316n3annryacilq7tl4qj52hhzty&count=1) -->
 
 # Learning 
 
