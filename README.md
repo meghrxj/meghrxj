@@ -54,7 +54,6 @@ Currently Studying Computer Science in University
 <a href="https://www.instagram.com/meghrxj/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 <a href="https://github.com/meghrxj"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 <a href="mailto:meghrxj@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-<a href="https://discord.com/users/688675191190323225"><img src="https://img.icons8.com/bubbles/50/000000/discord.png" alt="Discord"/></a>
  
 </div>
 </p>
