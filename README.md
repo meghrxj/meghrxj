@@ -9,7 +9,7 @@ Currently Studying Computer Science in University
 ## GitHub Stats
  
 [![Profile Views](https://komarev.com/ghpvc/?username=meghrxj&style=flat-square&color=000000)](https://github.com/meghrxj/)
-  <p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=meghrxj&theme=dark&hide_border=true&stroke=00DDD6&currStreakLabel=49DDCD" /></p>
+  <p align="center"><img src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=meghrxj&theme=dark)](https://git.io/streak-stats)" /></p>
 
 ### Languages
 
